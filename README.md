@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently student at University of Indonesia
+ 🎓 I’m currently student at University of Indonesia
  
- 🌱 I’m currently learning web development
+ 💻 I’m currently learning web development
 
  </div>
  
