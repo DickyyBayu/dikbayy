@@ -10,7 +10,7 @@
  
  🎓 I’m currently student at University of Indonesia
  
- 💻 I’m currently learning web development
+ 💻 I’m currently learning web development & data science
 
  </div>
  
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/dickybayu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/dikbayy" target="_blank">
+  <a href="https://github.com/DickyyBayu" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
