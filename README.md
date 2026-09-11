@@ -68,8 +68,6 @@
 <hr/>
 
 <!-- SNAKE ANIMATION -->
-<h3 align="center">🐍 Contribution Snake</h3>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DickyyBayu/DickyyBayu/output/github-contribution-grid-snake-dark.svg">
